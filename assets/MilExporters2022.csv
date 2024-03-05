@@ -1,0 +1,101 @@
+﻿RANK2022,RANK2021,Company,Country,ArmsRevenue2022,ArmsRevenue2021,TotalRevenue2022,ArmsRevenueTotalRevnue2022
+1,1,Lockheed Martin Corp.,United States,59390,60340,65984,90%
+2,2,Raytheon Technologies,United States,39570,41850,67074,59%
+3,4,Northrop Grumman Corp.,United States,32300,29880,36602,88%
+4,3,Boeing,United States,29300,33420,66608,44%
+5,5,General Dynamics Corp.,United States,28320,27760,39407,72%
+6,6,BAE Systems,United Kingdom,26900,27490,27712,97%
+7,7,NORINCO,China,22060,21570,82537,27%
+8,8,AVIC,China,20620,20110,82499,25%
+9,9,CASC,China,19560,19100,44458,44%
+10,10,Rostec,Russia,16810,15550,30295,55%
+11,11,CETC,China,15080,14990,55837,27%
+12,13,L3Harris Technologies,United States,12630,13360,17062,74%
+13,12,Leonardo,Italy,12470,13870,15025,83%
+14,16,Airbus,Trans-European,12090,10850,61805,20%
+15,14,CASIC,China,11770,12870,37364,32%
+16,15,CSSC,China,10440,10870,51443,20%
+17,17,Thales,France,9420,9770,18479,51%
+18,18,HII,United States,8750,8570,10676,82%
+19,19,Leidos,United States,8240,8030,14287,58%
+20,25,Amentum,United States,6560,5020,8750,75%
+21,21,CSGC,China,6460,5910,42507,15%
+22,22,Booz Allen Hamilton,United States,5900,5600,9259,64%
+23,20,Dassault Aviation Group,France,5070,6250,7288,70%
+24,29,Elbit Systems,Israel,4960,4750,5512,90%
+25,26,Rolls-Royce,United Kingdom,4930,4970,15647,32%
+26,32,CACI International,United States,4820,4330,6703,72%
+27,23,Honeywell International,United States,4630,5150,35466,13%
+28,31,Rheinmetall,Germany,4550,4450,6742,67%
+29,30,Naval Group,France,4530,4740,4578,99%
+30,28,Peraton,United States,4410,4830,7000,63%
+31,33,General Electric,United States,4410,4140,76555,5.8%
+32,27,MBDA,Trans-European,4380,4960,4428,99%
+33,40,KBR,United States,4270,3530,6564,65%
+34,24,Safran,France,4200,5050,20021,21%
+35,38,Israel Aerospace Industries,Israel,4100,3870,4973,82%
+36,36,United Shipbuilding Corp.,Russia,3950,4020,5011,79%
+37,37,Sandia National Laboratories,United States,3920,3900,4409,89%
+38,39,Science Applications International Corp.,United States,3780,3550,7704,49%
+39,34,Saab,Sweden,3700,4090,4154,89%
+40,44,Babcock International Group,United Kingdom,3680,3100,5473,67%
+41,42,Hindustan Aeronautics,India,3460,3300,3643,95%
+42,46,Rafael,Israel,3380,3010,3450,98%
+43,35,Mitsubishi Heavy Industries,Japan,3250,4060,32000,10%
+44,45,KNDS,Trans-European,3200,3030,3366,95%
+45,41,Textron,United States,2910,3350,12869,23%
+46,48,Fincantieri,Italy,2820,2870,7825,36%
+47,47,CEA,France,2790,2940,6135,45%
+48,43,Hanwha Aerospace,South Korea,2780,3250,5561,50%
+49,51,Bechtel Corp.,United States,2740,2470,. .,. .
+50,59,NCSIST,Taiwan,2590,1970,2859,91%
+51,68,V2X,United States,2520,1630,2891,87%
+52,52,TransDigm Group,United States,2330,2400,5429,43%
+53,65,Parker-Hannifin Corp.,United States,2270,2635,19065,12%
+54,56,ManTech International Corp.,United States,2190,2080,2690,81%
+55,55,ST Engineering,Singapore,2180,2160,6554,33%
+56,49,General Atomics,United States,2140,2570,. .,. .
+57,50,Oshkosh Corp.,United States,2140,2530,8282,26%
+58,58,Jacobs Engineering Group,United States,2090,2040,14923,14%
+59,67,Teledyne Technologies,United States,2020,1640,5459,37%
+60,54,ASELSAN,Türkiye,2020,2160,2131,95%
+61,63,CNNC,China,1940,1810,39046,5.0%
+62,53,ThyssenKrupp,Germany,1930,2390,43270,4.5%
+63,62,Bharat Electronics,India,1920,1830,2208,87%
+64,60,Serco Group,United Kingdom,1850,1870,5883,31%
+65,57,Kawasaki Heavy Industries,Japan,1830,2070,13139,14%
+66,71,Atomic Weapons Establishment,United Kingdom,1780,1550,1821,98%
+67,70,LIG Nex1,South Korea,1720,1590,1720,100%
+68,66,BWX Technologies,United States,1700,1650,2234,76%
+69,69,Hensoldt,Germany,1660,1610,1795,92%
+70,72,QinetiQ,United Kingdom,1620,1510,1949,83%
+71,76,PGZ,Poland,1600,1430,1775,90%
+72,61,Sierra Nevada Corp.,United States,1560,1860,1656,94%
+73,64,Korea Aerospace Industries,South Korea,1550,1800,2147,72%
+74,75,Parsons Corp.,United States,1540,1430,4195,37%
+75,74,Eaton,United States,1520,1460,20752,7.3%
+76,100,Baykar,Türkiye,1420,790,1500,95%
+77,80,CAE,Canada,1420,1280,3230,44%
+78,79,Curtiss-Wright Corp.,United States,1390,1380,2557,54%
+79,81,Moog,United States,1280,1250,3036,42%
+80,77,Fujitsu,Japan,1270,1410,28277,4.5%
+81,78,UkrOboronProm,Ukraine,1260,1400,1279,99%
+82,83,Turkish Aerospace Industries,Türkiye,1260,1200,1557,81%
+83,86,Kongsberg Gruppen,Norway,1230,1170,3309,37%
+84,84,Amphenol Corp.,United States,1140,1200,12623,9.0%
+85,114,United Launch Alliance,United States,1070,630,1158,92%
+86,92,Mitre Corp.,United States,1060,970,2200,48%
+87,85,Melrose Industries,United Kingdom,1060,1190,9292,11%
+88,90,The Aerospace Corp.,United States,1040,1030,1190,87%
+89,102,Mazagon Dock Shipbuilders,India,1000,780,997,100%
+90,88,Navantia,Spain,990,1080,1411,70%
+91,95,Austal,Australia,980,940,1101,89%
+92,93,Mercury Systems,United States,960,960,974,99%
+93,96,Diehl,Germany,950,870,3688,26%
+94,87,Ball Corp.,United States,930,1090,15349,6.1%
+95,94,Howmet Aerospace,United States,920,950,5663,16%
+96,106,TTM Technologies,United States,860,730,2495,34%
+97,99,HEICO Corp.,United States,860,820,2208,39%
+98,101,Hyundai Rotem,South Korea,820,780,2450,33%
+99,104,IHI Corp.,Japan,790,750,10302,7.7%
+100,107,Roketsan,Türkiye,790,730,790,100%
